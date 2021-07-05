@@ -63,8 +63,9 @@ h2{
 }
 .last-background{
     background-image: url(images/exp-bg.png);
-    padding-bottom: 58px;
     background-repeat: no-repeat;
+    padding-bottom: 58px;
+    background-position: left;
 }
 #border-line{
     border-left: 7px solid;
@@ -78,4 +79,5 @@ h2{
 }
 footer{
     text-align: center;
+    margin-top: 140px
 }
